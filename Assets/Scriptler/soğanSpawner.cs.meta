@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 15e0c32fed2c4e747b1dac353d35371f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - "so\u011FanPrefab": {fileID: 7059464772240275333, guid: bb97c3b2ddd1b5241881b407cb3a26cf, type: 3}
+  - spawnPoint: {fileID: 5389038476376048755, guid: fa82189881cda8943accd18bf77cd852, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
